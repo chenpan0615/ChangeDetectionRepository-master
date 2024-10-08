@@ -1,0 +1,1 @@
+from .irmad import run_irmad

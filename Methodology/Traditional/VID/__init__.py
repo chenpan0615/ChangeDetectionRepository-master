@@ -1,0 +1,1 @@
+from .vid import run_vid
